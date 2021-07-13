@@ -7,3 +7,5 @@ print(res.text)
 
 with open("mygoogle.txt", "w", encoding= "utf-8") as f:
     f.write(res.text)
+
+# 왜 commit이 안될까
